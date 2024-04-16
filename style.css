@@ -1,0 +1,155 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 48px;
+}
+
+.logo img {
+    width: 120.04px;
+    height: 32.67px;
+    top: 7.18px;
+    left: 0.53px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
+nav {
+    display: flex;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    gap: 29px;
+    list-style-type: none;
+}
+
+ul li a {
+    width: 120.04px;
+    height: 32.67px;
+    top: 7.18px;
+    left: 0.53px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 22.5px;
+    text-align: left;
+    text-decoration: none;
+    color: #9E9AA8;
+}
+
+nav button {
+    width: 105px;
+    height: 40px;
+    left: 1003px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 22.5px;
+    text-align: left;
+    text-align: center;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    background-color: aqua;
+    position: absolute;
+}
+
+.left h2 {
+    width: 565px;
+    height: 180px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 90px;
+    letter-spacing: -2px;
+    text-align: left;
+}
+
+.left p {
+    width: 540px;
+    height: 72px;
+    top: 185px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0.15000000596046448px;
+    text-align: left;
+    color: #9E9AA8;
+    margin-top: 5px;     
+}
+
+header button {
+    width: 197px;
+    height: 56px;
+    top: 295px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+    text-align: center;
+    color: white;
+    background-color: aqua;
+    border: none;
+    border-radius: 30px;
+    margin-top: 38px;
+}
+
+.right img {
+    width: 733px;
+    height: 482px;
+    top: 166px;
+    left: 830px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.nav {
+    display: flex;
+}
+
+.container_2 {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 139px;
+    margin-bottom: 40px;
+}
+
+
+.divHaHa{
+    width: 1440px;
+height: 270px;
+top: 801px;
+gap: 0px;
+opacity: 0px;
+background-color: saddlebrown ;
+
+}
+
+.h1Ha{
+  text-align: center;
+    font-size: 39px;
+    color: white;
+}
+
+
+.container9{
+    background: #232127;
+width: 1380px;
+padding: 30px;
+}
+
+
